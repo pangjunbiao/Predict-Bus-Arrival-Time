@@ -1,0 +1,8 @@
+busTripSequence: per 100; station; Gps
+busTripSequence_demean: per 100; station; Gps   距离类特征减去均值再编码
+
+busTripSequence_itp: per 100; station
+busTripSequence_itp_demean: per 100; station   距离类特征减去均值再编码
+
+busTripSequence_itp_dense: per 50; station
+busTripSequence_itp_dense_demean: per 50; station   距离类特征减去均值再编码
